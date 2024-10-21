@@ -2,7 +2,7 @@
 //1.14
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-#Local Run Command
+##Local Run Command
 Frontend npm start
 Backend cd server
 nodemon
