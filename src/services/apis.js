@@ -1,7 +1,6 @@
 
-const BASE_URL = "http://localhost:4000"
+const BASE_URL = process.env.REACT_APP_API_BASE_URL
 
 export const authendpoints = {
-  LOGIN_API: BASE_URL + "/api/v1/login",
   GET_USER_API: BASE_URL + "/api/v1/user",
 };
